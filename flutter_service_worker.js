@@ -9,23 +9,19 @@ const RESOURCES = {
 "index.html": "357ff72afc846d2884590a2ac492547e",
 "/": "357ff72afc846d2884590a2ac492547e",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/AssetManifest.json": "1a392b439685c29b6adcfcf7f5af5bf8",
+"assets/AssetManifest.json": "c2331edb738c5aa227625ff72647b6a2",
 "assets/NOTICES": "75f844c915b80ed4008257142b307475",
-"assets/assets/images/pngkit_kakashi-png_2099651.png": "a4cfc7982a43787ca21d468931af5617",
-"assets/assets/images/itachi.png": "5891634ef7206e56afcb88da65174815",
-"assets/assets/images/kakashi.png": "9e7d617a8174f120607e60f28a616431",
-"assets/assets/images/minato.png": "88848dcaacb6243f90ee37c8e950b8f9",
-"assets/assets/images/minato_save.png": "c415be4da112f20369ddf743389672c4",
-"assets/assets/images/itachi.jpg": "086a972ceb7dab3da128ee8660700306",
-"assets/assets/images/695428.jpg": "6959c8ebd6e70f7645723b71549500b1",
-"assets/assets/images/nagato_save.png": "4c44c3c8bbebad85d6dc0f9c7fc83f2e",
-"assets/assets/images/img.png": "ed0fbc866830c2ee7e5aaa9ca435c24e",
-"assets/assets/images/nagato.png": "38f2f2b00532ff05639dc29a1cfe227c",
-"assets/assets/images/madara.png": "87279f066498518a3a992657de8154d6",
+"assets/assets/images/itachi.png": "d5134c9d2537aa953470ce368aafdc32",
+"assets/assets/images/kakashi.png": "ea41e261d0b6478521895a67545a3484",
+"assets/assets/images/minato.png": "4dd29301eb3d5ad845cbd1c831a54d0e",
+"assets/assets/images/jiraiya.png": "17ede9969b7f9ec9201202d3c8755a40",
+"assets/assets/images/obito.png": "e6c45443068c6f8722d713911687e68b",
+"assets/assets/images/naruto.png": "b9548854e67fcadcc82ade4d5383818f",
+"assets/assets/images/sasuke.png": "68a102d958ca2ac1405c7a7f0f8f65e3",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "manifest.json": "28c27a4f231e3469a9737101b24d141d",
-"main.dart.js": "60c26c52471fc8a182290a8259ea548a"
+"main.dart.js": "100dc7bc6333e604d79b212dec47e468"
 };
 
 // The application shell files that are downloaded before a service worker can
