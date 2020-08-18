@@ -9,19 +9,21 @@ const RESOURCES = {
 "index.html": "357ff72afc846d2884590a2ac492547e",
 "/": "357ff72afc846d2884590a2ac492547e",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/AssetManifest.json": "c2331edb738c5aa227625ff72647b6a2",
+"assets/AssetManifest.json": "534386ae6f1d4d1dcb5de84c098c9e85",
 "assets/NOTICES": "75f844c915b80ed4008257142b307475",
 "assets/assets/images/itachi.png": "d5134c9d2537aa953470ce368aafdc32",
 "assets/assets/images/kakashi.png": "ea41e261d0b6478521895a67545a3484",
 "assets/assets/images/minato.png": "4dd29301eb3d5ad845cbd1c831a54d0e",
-"assets/assets/images/jiraiya.png": "17ede9969b7f9ec9201202d3c8755a40",
+"assets/assets/images/jiraiya.png": "215e94344fba629a49d242fb8e58b646",
+"assets/assets/images/leaf.png": "3bd05ae9f200002c2a9d688103eefb46",
+"assets/assets/images/gaara.png": "68123142ccd95d1c3333e755d7d35a22",
 "assets/assets/images/obito.png": "e6c45443068c6f8722d713911687e68b",
-"assets/assets/images/naruto.png": "b9548854e67fcadcc82ade4d5383818f",
+"assets/assets/images/naruto.png": "859e782af85a69033dd1f33808e02191",
 "assets/assets/images/sasuke.png": "68a102d958ca2ac1405c7a7f0f8f65e3",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "manifest.json": "28c27a4f231e3469a9737101b24d141d",
-"main.dart.js": "100dc7bc6333e604d79b212dec47e468"
+"main.dart.js": "b355cc9dd6a873e779dbe7e9427dee90"
 };
 
 // The application shell files that are downloaded before a service worker can
